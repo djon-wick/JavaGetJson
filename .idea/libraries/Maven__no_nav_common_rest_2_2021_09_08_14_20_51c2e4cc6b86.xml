@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: no.nav.common:rest:2.2021.09.08_14.20-51c2e4cc6b86">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/no/nav/common/rest/2.2021.09.08_14.20-51c2e4cc6b86/rest-2.2021.09.08_14.20-51c2e4cc6b86.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/no/nav/common/rest/2.2021.09.08_14.20-51c2e4cc6b86/rest-2.2021.09.08_14.20-51c2e4cc6b86-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/no/nav/common/rest/2.2021.09.08_14.20-51c2e4cc6b86/rest-2.2021.09.08_14.20-51c2e4cc6b86-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
